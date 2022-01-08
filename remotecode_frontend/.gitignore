@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+./remotecode_frontend/node_modules
+./remotecode_backend/node_modules
 
 # testing
 /coverage

@@ -4,7 +4,7 @@
   "description": "backend of remote code execution engine",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "author": "Harsh Aggarwal",
   "license": "ISC",
